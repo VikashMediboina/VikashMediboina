@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikashMediboina
 - 👀 I’m interested in latest technology
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m currently llooking for AI/ML/Vision/XR/AR roles
 - 📫 How to reach me vikash.mediboina@gmail.com
 
 <!---
