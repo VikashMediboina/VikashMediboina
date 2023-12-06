@@ -7,9 +7,9 @@
 - 💼 I have hands-on experience with various latest technologies, constantly updating my skills to stay ahead of the curve.
 
 ## 🛠️ Tech Stack:
-- **Full Stack Development:** Proficient in Node.js, Flask, and FastAPI, crafting scalable and efficient web applications.
-- **Databases:** Skilled in SQL, MongoDB, and Neo4j, ensuring robust and optimized data management solutions.
 - **AI and Machine Learning:** Deeply involved in AI-driven projects, utilizing advanced techniques in NLP, Computer Vision, and Generative AI to build intelligent and intuitive systems.
+- **Full Stack Development:**  Proficient in Node.js, Flask, and FastAPI for backend development. Skilled in Frontend technologies like ReactJS, Angular, and mobile development frameworks including Android and React Native.
+- **Databases:** Skilled in SQL, MongoDB, and Neo4j, ensuring robust and optimized data management solutions.
 - **Mixed Reality:** Passionate about creating engaging AR/VR experiences, blending the digital and physical worlds for enhanced user interaction.
 
 
