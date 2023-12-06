@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me:
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vikash-mediboina-927aa9138/)
-- Email: `vikash.mediboina@gmail.com
+- Email: `vikash.mediboina@gmail.com`
 - GitHub: [Your GitHub Profile](https://github.com/VikashMediboina)
 - PersonalWeb: [Website](https://vikash-mediboina.web.app/)
 
